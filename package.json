@@ -11,7 +11,7 @@
     "svelte": "^3.17.2"
   },
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "rollup": "^1.29.1",
     "rollup-plugin-bundle-html": "^0.2.2",
     "rollup-plugin-commonjs": "^10.1.0",
